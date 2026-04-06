@@ -9,6 +9,8 @@ Based on Kyriakos-Georgiopoulos/SeatMap.kt
 <p align="center">
   <img src="imgs/001.png" width="30%" />
   <img src="imgs/002.png" width="30%" />
+</p>
+<p align="center">
   <img src="imgs/003.png" width="30%" />
   <img src="imgs/004.png" width="30%" />
 </p>
