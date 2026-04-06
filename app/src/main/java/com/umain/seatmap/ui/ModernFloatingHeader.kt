@@ -209,7 +209,7 @@ fun ModernFloatingHeader(
                             verticalAlignment = Alignment.CenterVertically,
                         ) {
                             Text(
-                                "LHR",
+                                "ARN",
                                 fontSize = 24.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = Color.White,
@@ -223,7 +223,7 @@ fun ModernFloatingHeader(
                             )
                             Spacer(Modifier.width(16.dp))
                             Text(
-                                "HND",
+                                "FLP",
                                 fontSize = 24.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = Color.White,
@@ -242,7 +242,7 @@ fun ModernFloatingHeader(
                         Spacer(Modifier.height(24.dp))
 
                         Row(Modifier.fillMaxWidth()) {
-                            DetailColumn("Flight", "JL44", Alignment.Start, Modifier.weight(1f))
+                            DetailColumn("Flight", "JM44", Alignment.Start, Modifier.weight(1f))
                             DetailColumn(
                                 "Class",
                                 "Economy",
