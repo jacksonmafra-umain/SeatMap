@@ -4,6 +4,15 @@ This is an Android application built using Jetpack Compose, designed to provide 
 It likely allows users to view and interact with seat layouts, such as for flight or event bookings, showcasing a modern and responsive user interface.
 Based on Kyriakos-Georgiopoulos/SeatMap.kt
 
+## Visual Showcase
+
+<p align="center">
+  <img src="imgs/001.png" width="30%" />
+  <img src="imgs/002.png" width="30%" />
+  <img src="imgs/003.png" width="30%" />
+  <img src="imgs/004.png" width="30%" />
+</p>
+
 ## Features
 
 *   **Interactive Seat Map:** Displays a visual representation of seat arrangements.

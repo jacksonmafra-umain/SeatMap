@@ -131,7 +131,7 @@ fun BoardingPassTicket(seat: PlaneSeat) {
                             horizontalArrangement = Arrangement.Center,
                         ) {
                             Text(
-                                "LHR",
+                                "ARN",
                                 fontSize = 42.sp,
                                 fontWeight = FontWeight.Black,
                                 color = Color.White,
@@ -145,7 +145,7 @@ fun BoardingPassTicket(seat: PlaneSeat) {
                             )
                             Spacer(Modifier.width(24.dp))
                             Text(
-                                "HND",
+                                "FLP",
                                 fontSize = 42.sp,
                                 fontWeight = FontWeight.Black,
                                 color = Color.White,
